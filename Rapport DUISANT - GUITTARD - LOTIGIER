@@ -1,0 +1,14 @@
+Rapport Etude de cas 1 module JAVA EPSI
+
+Problèmes rencontrés
+
+Nous n'avons rencontrés de problèmes que sur les fonctions permettant l'emprunt et le retour de livres.
+
+La gestion des livres dans l'inventaires de l'utilisateur et l'actualisation dans celui de la bibliotheque (impliquant la notion de quantité) ont été des notions difficiles à implémenter dans le code.
+
+Repartition des tâches:
+DUISANT: developpement tests unitaires
+LOTIGIER: developpement des tests unitaires/models
+GUITTARD: développement des models
+
+Choix fais:
